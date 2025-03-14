@@ -1,0 +1,82 @@
+[
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "publication_year": 1947,
+    "genre": "Biography",
+    "read_status": true,
+    "added_date": "2025-03-14 11:36:40"
+  },
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "publication_year": 2011,
+    "genre": "Biography",
+    "read_status": false,
+    "added_date": "2025-03-14 12:49:20"
+  },
+  {
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "publication_year": 1994,
+    "genre": "Autobiography",
+    "read_status": true,
+    "added_date": "2025-03-14 12:20:40"
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "publication_year": 2018,
+    "genre": "Autobiography",
+    "read_status": false,
+    "added_date": "2025-03-14 12:30:40"
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "publication_year": 2018,
+    "genre": "Memoir",
+    "read_status": true,
+    "added_date": "2025-03-14 12:49:20"
+  },
+  {
+    "title": "The Story of My Experiments with Truth",
+    "author": "Mahatma Gandhi",
+    "publication_year": 1927,
+    "genre": "Autobiography",
+    "read_status": false,
+    "added_date": "2025-03-14 11:35:40"
+  },
+  {
+    "title": "I Am Malala",
+    "author": "Malala Yousafzai",
+    "publication_year": 2013,
+    "genre": "Autobiography",
+    "read_status": true,
+    "added_date": "2025-03-14 11:39:40"
+  },
+  {
+    "title": "Einstein: His Life and Universe",
+    "author": "Walter Isaacson",
+    "publication_year": 2007,
+    "genre": "Biography",
+    "read_status": false,
+    "added_date": "2025-03-14 12:52:40"
+  },
+  {
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "publication_year": 2015,
+    "genre": "Biography",
+    "read_status": true,
+    "added_date": "2025-03-14 11:55:40"
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "publication_year": 2016,
+    "genre": "Autobiography",
+    "read_status": false,
+    "added_date": "2025-03-14 12:45:40"
+  }
+]
